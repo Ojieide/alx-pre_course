@@ -1,4 +1,8 @@
 #!/bin/bash
+#<<<<<<< HEAD
+#=======
+#<<<<<<<
+#>>>>>>> 2ce60193e8148e23772ac3fe90a315a7894c3e30
 ALX School is so cool!
 ALX School
-update_script
+#update_script
